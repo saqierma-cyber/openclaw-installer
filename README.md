@@ -281,4 +281,3 @@ It is **a social project to bring AI to every household**,
 a belief in returning technology to people and open source to its original vision,
 
 and a key for every ordinary person in the world to equally embrace the AI era.
-> （注：文档部分内容可能由 AI 生成）
