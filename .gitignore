@@ -1,0 +1,11 @@
+dist/
+build/
+__pycache__/
+*.spec
+*.pyc
+*.pyo
+.env
+.claude/
+*.db
+*.exe
+*.tgz
