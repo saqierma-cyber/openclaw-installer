@@ -12,9 +12,9 @@ One-click installation of the unmodified, native [OpenClaw](https://github.com/o
 
 ## 📺 Demo Video
 
-<video src="assets/demo.mp4" width="100%" controls></video>
+[![Watch Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Click_to_Download-red?style=for-the-badge&logo=youtube)](https://github.com/saqierma-cyber/openclaw-installer/raw/main/assets/demo.mp4)
 
-> If the video doesn't play, [click to download](assets/demo.mp4) or visit our [official website](https://66vip.world/) for an online demo
+> 📥 [Download demo video](https://github.com/saqierma-cyber/openclaw-installer/raw/main/assets/demo.mp4) | 🌐 [Watch online demo on our website](https://66vip.world/)
 
 ---
 

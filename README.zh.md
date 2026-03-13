@@ -12,9 +12,9 @@
 
 ## 📺 演示视频
 
-<video src="assets/demo.mp4" width="100%" controls></video>
+[![观看演示视频](https://img.shields.io/badge/▶_观看演示-点击下载视频-red?style=for-the-badge&logo=youtube)](https://github.com/saqierma-cyber/openclaw-installer/raw/main/assets/demo.mp4)
 
-> 如果视频无法播放，请[点击下载观看](assets/demo.mp4) 或访问 [官方网站](https://66vip.world/) 查看在线演示
+> 📥 [下载演示视频](https://github.com/saqierma-cyber/openclaw-installer/raw/main/assets/demo.mp4) | 🌐 [访问官方网站观看在线演示](https://66vip.world/)
 
 \---
 
