@@ -1,8 +1,18 @@
 # OpenClaw Installer
 
+[![官方网站](https://img.shields.io/badge/🌐_官方网站-66vip.world-blue?style=for-the-badge)](https://66vip.world/)
+[![GitHub Release](https://img.shields.io/github/v/release/saqierma-cyber/openclaw-installer?style=for-the-badge)](https://github.com/saqierma-cyber/openclaw-installer/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 一键安装 [OpenClaw](https://github.com/openclaw/openclaw) AI 助手的桌面工具。
 
 用户只需双击运行，输入激活码和 API Key，即可自动完成 Node.js 检测安装、OpenClaw 部署、模型配置、Gateway 启动，全程无需终端操作。
+
+## 演示视频
+
+<video src="assets/demo.mp4" width="100%" controls></video>
+
+> 如果视频无法播放，请[点击下载观看](assets/demo.mp4) 或访问 [官方网站](https://66vip.world/) 查看在线演示
 
 ## 功能特性
 
